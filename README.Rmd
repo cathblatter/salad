@@ -1,0 +1,37 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# salad
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of salad is to make the people at SALAD's lives a little easier.
+
+## Installation
+
+You can install the development version of salad from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("cathblatter/salad")
+```
+
+## Helpers for rendering quarto slides
+
+```{r example, eval=FALSE}
+# hide all slides with class "answer" when rendering
+salad::hide_answer(x = "my_slides.Rmd")
+```
