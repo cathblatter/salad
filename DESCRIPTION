@@ -12,3 +12,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.0
 Imports: 
     quarto
+URL: https://github.com/cathblatter/salad
+BugReports: https://github.com/cathblatter/salad/issues
