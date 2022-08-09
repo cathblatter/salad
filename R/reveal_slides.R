@@ -1,7 +1,7 @@
 #' Hide answer slides in quarto revealjs-presentations
 #'
 #' @param x An .Rmd file
-#' @param ...
+#' @param ... additional arguments passed to \code{quarto::quarto_render()}
 #'
 #' @return a HTML file
 #' @export
@@ -18,7 +18,7 @@ hide_answer <- function(x, ...){
 #' Show answer slides in quarto revealjs-presentations
 #'
 #' @param x An .Rmd file
-#' @param ...
+#' @param ...  additional arguments passed to \code{quarto::quarto_render()}
 #'
 #' @return a HTML file
 #' @export

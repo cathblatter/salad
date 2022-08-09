@@ -13,12 +13,12 @@ knitr::opts_chunk$set(
 )
 ```
 
-# saladR
+# `r emo::ji("package")` saladR
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of salad is to make the people at SALAD's lives a little easier.
+The goal of saladR is to make the people at SALAD's lives a little easier.
 
 ## Installation
 

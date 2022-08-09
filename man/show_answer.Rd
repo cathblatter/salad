@@ -9,7 +9,7 @@ show_answer(x, ...)
 \arguments{
 \item{x}{An .Rmd file}
 
-\item{...}{}
+\item{...}{additional arguments passed to \code{quarto::quarto_render()}}
 }
 \value{
 a HTML file
