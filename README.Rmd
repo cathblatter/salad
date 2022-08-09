@@ -33,5 +33,5 @@ devtools::install_github("cathblatter/saladR")
 
 ```{r example, eval=FALSE}
 # hide all slides with class "answer" when rendering
-salad::hide_answer(x = "my_slides.Rmd")
+saladR::hide_answer(x = "my_slides.Rmd")
 ```
