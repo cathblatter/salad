@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# salad
+# saladR
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -26,7 +26,7 @@ You can install the development version of salad from [GitHub](https://github.co
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("cathblatter/salad")
+devtools::install_github("cathblatter/saladR")
 ```
 
 ## Helpers for rendering quarto slides
