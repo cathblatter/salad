@@ -22,6 +22,6 @@ devtools::install_github("cathblatter/saladR")
 ## Helpers for rendering quarto slides
 
 ``` r
-# hide all slides with class "answer" when rendering
-saladR::hide_answer(x = "my_slides.Rmd")
+# create simultaneously html output and pdf output
+saladR::create_slides("my_slides.qmd")
 ```
