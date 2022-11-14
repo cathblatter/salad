@@ -1,4 +1,4 @@
-Package: saladR
+Package: salad
 Title: Things to facitlitate SALADs work
 Version: 0.0.0.9000
 Authors@R: 
@@ -13,5 +13,5 @@ RoxygenNote: 7.2.1
 Imports: 
     quarto,
     renderthis (>= 0.2.0)
-URL: https://github.com/cathblatter/saladR
-BugReports: https://github.com/cathblatter/saladR/issues
+URL: https://github.com/cathblatter/salad
+BugReports: https://github.com/cathblatter/salad/issues

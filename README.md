@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# 📦 saladR
+# 📦 salad
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -16,12 +16,12 @@ You can install the development version of salad from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("cathblatter/saladR")
+devtools::install_github("cathblatter/salad")
 ```
 
 ## Helpers for rendering quarto slides
 
 ``` r
 # create simultaneously html output and pdf output
-saladR::create_slides("my_slides.qmd")
+salad::create_slides("my_slides.qmd")
 ```
