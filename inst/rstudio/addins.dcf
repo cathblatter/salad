@@ -1,4 +1,4 @@
-Name: create slides!
+Name: Create PDF slides
 Description: Render qmd/rmd slides to pdf
 Binding: create_slides
 Interactive: true
