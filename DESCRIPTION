@@ -13,6 +13,11 @@ RoxygenNote: 7.2.1
 Imports: 
     quarto,
     renderthis (>= 0.2.0),
-    rstudioapi
-URL: https://github.com/cathblatter/salad
+    rstudioapi,
+    xfun
+URL: https://github.com/cathblatter/salad,
+    https://cathblatter.github.io/salad/
 BugReports: https://github.com/cathblatter/salad/issues
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

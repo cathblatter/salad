@@ -1,4 +1,4 @@
-Name: renderthis::to_pdf()
+Name: create slides!
 Description: Render qmd/rmd slides to pdf
 Binding: create_slides
 Interactive: true

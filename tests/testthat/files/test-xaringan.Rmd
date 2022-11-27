@@ -1,0 +1,39 @@
+---
+title: Xaringan Tests
+author: Captain Testinomio
+output:
+  xaringan::moon_reader
+---
+
+```{r setup, eval = T, echo = F}
+knitr::opts_chunk$set(warning = FALSE, 
+                      warnings = FALSE, 
+                      echo = TRUE, 
+                      eval = TRUE, 
+                      message = FALSE)
+```
+
+layout: true
+<div class="footer">`r rmarkdown::metadata$author` | `r rmarkdown::metadata$title` | `r rmarkdown::metadata$date` </div>
+---
+
+# Agenda
+
+- some 
+
+- bullet 
+
+- points
+
+---
+
+# Random content
+
+- Feel free to include further slides
+
+
+---
+layout:false
+class: title-slide-final
+
+# Thank you for your attention

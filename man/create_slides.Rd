@@ -4,10 +4,10 @@
 \alias{create_slides}
 \title{Create slides from .qmd files}
 \usage{
-create_slides(x, ...)
+create_slides(file, ...)
 }
 \arguments{
-\item{x}{an rmd/or qmd-file}
+\item{file}{an rmd/or qmd-file}
 
 \item{...}{further arguments passed to renderthis::to_pdf()}
 }
